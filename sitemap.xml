@@ -1,41 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pfaaj.github.io/</loc>
-    <priority>0</priority>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>https://pfaaj.github.io/authors/admin/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://pfaaj.github.io/authors/</loc>
-    <priority>0</priority>
+    <loc>/authors/</loc>
   </url>
   
   <url>
-    <loc>https://pfaaj.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://pfaaj.github.io/post/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>https://pfaaj.github.io/publication/</loc>
+    <loc>/publication_types/</loc>
   </url>
   
   <url>
-    <loc>https://pfaaj.github.io/talk/</loc>
+    <loc>/publication/</loc>
   </url>
   
   <url>
-    <loc>https://pfaaj.github.io/tags/</loc>
-    <priority>0</priority>
+    <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
